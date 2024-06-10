@@ -2,7 +2,7 @@
 이상형 월드컵 사이트
 
 
-##실행
+## 실행
 "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "client": "cd client && npm run start",
